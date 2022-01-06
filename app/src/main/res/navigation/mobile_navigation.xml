@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_styles">
+
+    <fragment
+        android:id="@+id/nav_styles"
+        android:name="com.kegel.pocketdance.ui.styles.StyleFragment"
+        android:label="@string/styles"
+        tools:layout="@layout/fragment_style" />
+
+    <fragment
+        android:id="@+id/nav_figures"
+        android:name="com.kegel.pocketdance.ui.figures.FiguresFragment"
+        android:label="@string/figures_title"
+        tools:layout="@layout/figure_fragment_item_list">
+        <argument android:name="figure" app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_dance_video"
+        android:name="com.kegel.pocketdance.ui.watch.DanceVideoFragment"
+        android:label="fragment_dance_video"
+        tools:layout="@layout/fragment_dance_video" />
+    <fragment
+        android:id="@+id/nav_record"
+        android:name="com.kegel.pocketdance.ui.record.RecordFragment"
+        android:label="fragment_record"
+        tools:layout="@layout/fragment_record" />
+    <fragment
+        android:id="@+id/nav_organize"
+        android:name="com.kegel.pocketdance.ui.organize.OrganizeFragment"
+        android:label="@string/organize_dances"
+        tools:layout="@layout/fragment_organize" />
+</navigation>

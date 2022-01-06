@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "styles": [
+    {
+      "name": "Salsa",
+      "figures": [
+        {
+          "name": "The Cape",
+          "media": "cape.mp4",
+          "startTime": 34,
+          "endTime": 44,
+          "plays": 4
+        }
+      ]
+    }
+  ]
+}

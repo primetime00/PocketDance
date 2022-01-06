@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="false"
+    android:background="?attr/fullscreenBackgroundColor"
+    android:theme="@style/ThemeOverlay.PocketDance.FullscreenContainer"
+    tools:context=".ui.record.RecordFragment">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+    <androidx.camera.view.PreviewView
+        android:id="@+id/camera_preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.camera.view.PreviewView>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/record_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="32dp"
+            android:alpha="0"
+            android:text="Record Time"
+            app:layout_constraintBottom_toBottomOf="@+id/record_button"
+            app:layout_constraintEnd_toStartOf="@+id/record_button"
+            app:layout_constraintTop_toTopOf="@+id/record_button" />
+
+        <ImageButton
+            android:id="@+id/record_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="64dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/record_button"
+            app:backgroundTint="@null"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+
+        <ImageButton
+            android:id="@+id/record_next_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/stop_next"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="@+id/record_button"
+            app:layout_constraintStart_toEndOf="@+id/record_button" />
+
+        <LinearLayout
+            android:id="@+id/record_status_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="8dp"
+            android:alpha="0"
+            android:background="@drawable/bk_status"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/x"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center"
+                android:paddingStart="5dp"
+                android:paddingEnd="15dp"
+                android:text="\u2716"
+                android:textAlignment="gravity"
+                android:textColor="#FFFF0000"
+                android:textSize="30sp"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/checkmark"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:paddingStart="5dp"
+                android:paddingEnd="15dp"
+                android:text="\u2713"
+                android:textAlignment="center"
+                android:textColor="#FF00FF00"
+                android:textSize="30sp"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/record_status_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Dance Captured" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

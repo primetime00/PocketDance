@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DanceCenter>
+    <dances directory="">
+        <dance directory="Hustle" name="Hustle" table="hustle">
+            <figure sha="7524c44010d0c2819e263c723b430aaa22acebf8" slow="Arm-Check_slow.mp4" video="Arm-Check.mp4">Arm Check</figure>
+            <figure sha="c65a25df606e32a7e98e85aaeda4004a2be3bc12" video="Arm-Slide.mp4">Arm Slide</figure>
+            <figure sha="7b4f7044a311f4081390e161b8fc0d0bd5d0ff47" video="Back-Whip-Hand-Change-To-Double-Inside-Turn.mp4">Back Whip Hand Change To Double Inside Turn</figure>
+            <figure sha="417c3a872cc93dc2b062bf1622a1aac4128a924a" video="Back-Whip-Hand-Change-To-Inside-Turn-To-Close-Changes.mp4">Back Whip Hand Change To Inside Turn To Close Changes</figure>
+            <figure sha="172bcb710c24acdab8e44b1be367ed2ca6465d2b" video="Back-Whip-Hand-Change-To-Inside-Turn.mp4">Back Whip Hand Change To Inside Turn</figure>
+            <figure sha="1bc08ca06c70a7b8bde55fd584c76c697d6a4e0d" video="Back-Whip-Hand-Change.mp4">Back Whip Hand Change</figure>
+            <figure sha="29a097086932c0b70727da973007d3abb863fb89" video="Back-Whip.mp4">Back Whip</figure>
+            <figure sha="8f932c5272b1e351f28f0c199995466ecce8c819" video="Belt-Pass-To-Sliding-Door.mp4">Belt Pass to Sliding Door</figure>
+            <figure sha="1fe7682f189a61619ddb4e96822cc27912f640bb" slow="CrossBody-Girl-Turn-To-Guy-Turn_slow.mp4" video="CrossBody-Girl-Turn-To-Guy-Turn.mp4">Crossbody Turn to Men's Turn</figure>
+            <figure sha="aab0febc17947d64ed0eceee241f8cae72fe4904" video="Double-Head-Loop-To-Sliding-Door.mp4">Double Head Loop to Sliding Door</figure>
+            <figure sha="00f1920b4a017ccd265d835ce8b5b023b5fe8f78" video="Grapevine.mp4">Grapevine</figure>
+            <figure sha="16dabb544a60589113fbfb000ea9881d99899bab" video="Guy-Girl-UAT.mp4">His/Her Underarm Turn</figure>
+            <figure sha="dc66eeeea04432bd16ee333ee85ab23719a6c4c3" video="Half Angel.mp4">Half Angel</figure>
+            <figure sha="9f019f5d3703d56232f120424cfe4a5ecf6f5195" video="Half-Nelson-To-Scoop.mp4">Half Nelson to Scoop Turn</figure>
+            <figure sha="0ee5b7e6c5501eb56e9e7163774e24ec2c98a200" video="Half-Round-The-World-To-2-Inside-Turns.mp4">Half Round the World to Double Inside Turns</figure>
+            <figure sha="e88386a09dc3dfbb7b5337e673062437b934fbc8" video="Hammerlock-Cross-Scoop.mp4">Hammerlock Cross-Track Scoop</figure>
+            <figure sha="72d73eaf33e675349ea601fc9c1732a7f45dc2cd" slow="Hammerlock-Cuddle-SendOut_slow.mp4" video="Hammerlock-Cuddle-SendOut.mp4">Hammerlock to Cuddle Send</figure>
+            <figure sha="e190940e11c6f187c0bde572909aa49a299bfe3b" video="Hammerlock-Scoop.mp4">Hammerlock Scoop</figure>
+            <figure sha="0f607814464b315ddc83525487dd314c0ec270b7" video="Hammerlock-To-Scoop.mp4">Hammerlock to Scoop Turn</figure>
+            <figure sha="4001fcb3f6b5dbeb3f34d95ea35bc92699c4b1be" video="Head-Wrap-To-Scoop.mp4">Head Wrap to Scoop Turn</figure>
+            <figure sha="72b84d577c57dd5acbf1370fc17afb2cbae5c4de" video="Head-Wrap.mp4">Head Wrap</figure>
+            <figure sha="0fec13d9bb9d36bf5ce6d39c8504b43fb6c7ca9e" video="Headloop-To-Catch-Spin-Chaning-Sides.mp4">Headloop To Catch Spin Changing Sides</figure>
+            <figure sha="d450f63709a88ad08f6e2920c2eea2166ccd702f" video="Inside-Turn-To-Turn-Series.mp4">Inside Turn To Turn Series</figure>
+            <figure sha="22b3a8c9ffabef16a41ba0a2ffcd9b3c5644ef05" video="Lead Underarm Crossbody Turn.mp4">Lead Underarm Crossbody Turn</figure>
+            <figure sha="d85c2b6a532acc02d8d7ba3c1c9f3b3cac816984" video="Lead-Hammerlock-To-Sendout.mp4">Lead Hammerlock to Send</figure>
+            <figure sha="658b6eda2588d2bbc7f9542c791e081f5deb09c7" video="Quarter-Cross-Body-Lead.mp4">Quarter Cross Body Lead</figure>
+            <figure sha="aa84219123e58d1b7936f466ce850afabd37f786" video="Salsa-Step-To-Arm-Drag.mp4">Salsa Step to Arm Drag</figure>
+            <figure sha="1ad610f946a0bb652eb653301c7390cbe7ee6eae" video="Salsa-Step.mp4">Salsa Step</figure>
+            <figure sha="e58df970b55d7d739ee67f75bc7a99f062a7bc2c" video="Sendout-Spin-Catch.mp4">Sendout to Spin Catch</figure>
+            <figure sha="769d44660afc51fcae079b0817ee0ce6dfc4aa5c" video="Sliding-Door.mp4">Sliding Door</figure>
+            <figure sha="8300e0bb1e47623025f57c3fcbe6df905720f9df" slow="Sweetheart-Combo_slow.mp4" video="Sweetheart-Combo.mp4">Sweetheart Combo</figure>
+            <figure sha="49452e1983506b403fe0071d50339f8a403ac194" video="Sweetheart-Guide.mp4">Sweetheart Guide</figure>
+            <figure sha="8208a5d781a098f106316a2141b5af3c9eeb5782" video="Sweetheart-To-Half-Sendout-Hairbrush.mp4">Sweetheart to Half Send Brush</figure>
+            <figure sha="d579457e8a36a930a8e64f4a70139ec111c676f9" video="Sweetheart-To-Spin-Catch-Switch-Slot.mp4">Sweetheart To Spin Catch Changing Sides</figure>
+            <figure sha="3ea30899e885c4677ca19e44ab300fa8f94de767" video="Sweetheart-To-Spin-Catch.mp4">Sweetheart To Spin Catch</figure>
+            <figure sha="d799c85a6fa5d1c9b22df5b1e7d84fb7ed4a04d6" video="Sweetheart-Travel.mp4">Sweetheart Travel</figure>
+            <figure sha="c3b741920ef05c398355b3737cb70264c394da10" video="Tuck-Turn-To-Half-Nelson-Side-To-Side-Double-Head-Loop.mp4">Tuck Turn to Half Nelson Side/Side Double Head Loop</figure>
+            <figure sha="d4449930acfe10f71d87a9252aabfd2b083097b8" video="Two-Hand-Scoop.mp4">Two Handed Scoop Turn</figure>
+            <figure sha="7011372cd8c8df66e8c7fbf42be94688391dcab8" video="UAT-Sweetheart-To-Close-Change-Catch-Switch.mp4">Under Arm Turn Sweetheart To Close Change Catch Switch</figure>
+            <figure sha="e413016c784a92db0fb3a48e88720ac8809ce4aa" video="Wrap-Sendout-Spin-Catch.mp4">Wrap to Sendout to Spin Catch</figure>
+        </dance>
+        <dance directory="Waltz" name="Waltz" table="waltz">
+            <figure sha="13e50a08fceda6074ee74e726479975187f042e6" video="Amelias-Waltz.mp4">Amelias Waltz</figure>
+            <figure sha="e9d2c873fa96a27f4fd6d7b86b791a6cf981f0bf" video="Arm-Check-To-Circle-To-Switch-To-Spin.mp4">Arm Check To Circle Switch Spin</figure>
+            <figure sha="c49957ac14ab4c8a36361b912e96a38be6ac0464" slow="Combo-To-ChaCha-Step_slow.mp4" video="Combo-To-ChaCha-Step.mp4">Combo to Chacha Step</figure>
+            <figure sha="cf427d5a5b896c711b071280510054f56d019f86" slow="Corkscrew_slow.mp4" video="Corkscrew.mp4">Corkscrew</figure>
+            <figure sha="c3914b9b60100b328897c0a1264c2ac9869527ee" slow="Crisscross-Twinkles_slow.mp4" video="Crisscross-Twinkles.mp4">Criss Cross Twinkles</figure>
+            <figure sha="0b3a6f0ae5486ab6e2808bd8de1a93734b26cb49" slow="Inside Turn To Kick_slow.mp4" video="Inside Turn To Kick.mp4">Inside Turn to Kick</figure>
+            <figure sha="2497a190d0cb5b73ba4922f1510c1802f0c344f0" slow="Inside Turn-Double Twinkle_slow.mp4" video="Inside Turn-Double Twinkle.mp4">Inside Turn to Double Twinkle</figure>
+            <figure sha="8d238758a934ba04b36837e264d78879126e04ff" video="Inside Turn.mp4">Inside Turn</figure>
+            <figure sha="5d823345f7fe742e0b0b5dd2958c18a3fba6af23" slow="Kick_slow.mp4" video="Kick.mp4">Kick</figure>
+            <figure sha="90f1af86a33a70197daa0a382e41179add2edaa3" slow="Last-Half-Outside-Turn_slow.mp4" video="Last-Half-Outside-Turn.mp4">Last Half Outside Turn</figure>
+            <figure sha="c856a437119b8ffd5a83f5fbcbc7295246740075" slow="Lead Underarm Crossbody Turn_slow.mp4" video="Lead Underarm Crossbody Turn.mp4">Lead Underarm Crossbody Turn</figure>
+            <figure sha="103a6cbeadbcbc408acd3e50630e29bc7147b01e" slow="Outside Turn-Wisk_slow.mp4" video="Outside Turn-Wisk.mp4">Outside Turn to Whisk</figure>
+            <figure sha="6cf8bc9ea80435219071d0570ca5807020611aaf" video="Picture Line To Inside Turn.mp4">Picture Line to Inside Turn</figure>
+            <figure sha="c19cac69ad1ed87eda681a2850c48b7fec824230" slow="Progressive-Twinkles_slow.mp4" video="Progressive-Twinkles.mp4">Progressive Twinkles</figure>
+            <figure sha="7e05a0f127f475ef4a7bd656adce38e36b9b2628" video="Promenade-Sashay.mp4">Promenade Sashay</figure>
+            <figure sha="405718aea8bbb954cd0b72ddff0efb2c218a478c" video="Turn-Sashay-Cutoff-Kick-2.mp4">Turn to Sashay to Cutoff Kick [Angle 2]</figure>
+            <figure sha="edd430c25972875ff1bef850f3220e9454f21755" video="Turn-Sashay-Cutoff-Kick.mp4">Turn to Sashay to Cutoff Kick [Angle 1]</figure>
+            <figure sha="fd6f548f6886c1c48e007ec3f401f8ee560f5b86" slow="Twinkle-To-Cha-Cha-Step_slow.mp4" video="Twinkle-To-Cha-Cha-Step.mp4">Twinkle to Chacha Step</figure>
+            <figure sha="73c7845e8ef5e678f4848c83930de33cab6c654e" slow="Twinkle_slow.mp4" video="Twinkle.mp4">Twinkle</figure>
+            <figure sha="3e0e178348b032ee5656e9f58207aa35a0c0f664" slow="Waltz-Combo-1-full_slow.mp4" video="Waltz-Combo-1-full.mp4">Waltz Special Combo Full</figure>
+            <figure sha="6c67087b9e1b6e7cb6a85017660f6c5d24ba64f6" slow="Waltz-Combo-1_slow.mp4" video="Waltz-Combo-1.mp4">Waltz Special Combo</figure>
+            <figure sha="5bd3fd52f5300eec6698404274d6fe8ccae9aacc" slow="Waltz-Combo-2_slow.mp4" video="Waltz-Combo-2.mp4">Waltz Special Combo [Angle 2]</figure>
+            <figure sha="bac44db580d21cfffcd199e36310a72f81052b25" video="Arm-Swings-To-Cross-Overs-Spin-Out.mp4">Arm Swings To Cross Overs To Spin Out</figure>
+        </dance>
+        <dance directory="Merengue" name="Merengue" table="merengue">
+            <figure sha="ff48f14510f225319964f7eb69cc497c164981ec" video="Follow-Lead-Cuddle-To-Unwind.mp4">She/He Cuddle to Unwind</figure>
+            <figure sha="67c9963b181366fc3558d88b3d98b53f529f06d0" video="Follow-Tunnel.mp4">Lady's Tunnel</figure>
+        </dance>
+        <dance directory="Night Club Two Step" name="Night Club Two Step" table="nc2s">
+            <figure sha="eda18fd8889a0101554d4352de713129602759ba" video="Circle-Around-Turn.mp4">Circle Around Turn</figure>
+            <figure sha="ca76d09dac9c09d76ed783678091d48f131c2b49" video="Circle-Shoulder-Rock-Spinout.mp4">Circle Around to Shoulder Rock Spinout</figure>
+            <figure sha="8a268b029509380dc9395237abee099a6422c6b2" video="Circle-Shoulder-Spinout.mp4">Circle Around to Shoulder Spinout</figure>
+            <figure sha="fe7ab44866f74262a6bb9199d6157ac9d33a4307" slow="Cross-Arm-Lead-Follow-Turn_slow.mp4" video="Cross-Arm-Lead-Follow-Turn.mp4">Cross Arm Lead-Follow Turn</figure>
+            <figure sha="4ba00c739c2476905fd5a70936e3ebc35e358406" video="Cross-Arm-To-Sweetheart-Spin.mp4">Cross Arm to Sweetheart Turn</figure>
+            <figure sha="195bcb888f713dc6e943fab93eda3b9ee227aa09" video="Hammerlock-Spin.mp4">Hammerlock Spin</figure>
+            <figure sha="a97616db5faca4ee777b1e60cda62b96ba26d44e" slow="Hammerlock-WalkAround_slow.mp4" video="Hammerlock-WalkAround.mp4">Hammerlock Walk Around</figure>
+            <figure sha="bc7cc1f19ef8f696eef2a649fc5918c652830068" video="Lead-Hammerlock-To-Spin.mp4">Lead Hammerlock to Spin</figure>
+            <figure sha="bf2276a464dd6d1fbfb61c414121d1f5db0a5383" video="Open-Windows.mp4">Open Windows</figure>
+            <figure sha="6f7b7e1c39f24bb8bb51fcce450e1960f8965fc7" video="Passing-Twinkles.mp4">Passing Twinkles</figure>
+            <figure sha="753c9fb8cc4283282e4c8a09e34e4d641e722821" video="Spin-Catch.mp4">Circle Around Turn to Spin Catch</figure>
+            <figure sha="9c99bf2c61a9819d9f7a3bc6638e8c657799b304" video="Pipestem-Pattern.mp4">The Pipestem Pattern</figure>
+        </dance>
+        <dance directory="Rumba" name="Rumba" table="rumba">
+            <figure sha="f9f286c7b37babca4f293dcdd86122f6e023ebd0" video="5th-Position-Scallop-Side-Breaks.mp4">5th Position Scallop Side Breaks</figure>
+            <figure sha="2447d9f858918370556a0f7347bfbd8d649ebc88" slow="Handshake-UAT-PullAround-Spinout_slow.mp4" video="Handshake-UAT-PullAround-Spinout.mp4">Handshake Underarm Turn to Pull Around Spinout</figure>
+            <figure sha="41c03f27230480f753f8fb7c25fc84cbae002e33" slow="Handshake-UAT-PullAround_slow.mp4" video="Handshake-UAT-PullAround.mp4">Handshake Underarm Turn to Pull Around</figure>
+            <figure sha="749f6bb26a3a7a8906a11ed3d3f5434bc0628c37" video="His-Her-Turn-To-Catch-To-Inside-Turn.mp4">His/Her Turn to Catch to Inside Turn</figure>
+            <figure sha="e0ec6e88872cb3a7cb542177ac25f9160e9d5b22" video="Inside-Turn-To-Parallel-Checks-To-Cape.mp4">Inside Turn to Parallel Checks to Cape</figure>
+            <figure sha="adcd904c5ccaa57a9bcdd9ee14e10cf777ca1025" video="Lead-Wrap-To-Turns-To-Inside-Turn.mp4">Lead Wrap to Turns to Inside Turn</figure>
+            <figure sha="e65df74eabbe1f265d1a69d02274a47d67c2e5ab" video="Romantic-Sways.mp4">Romantic Sways</figure>
+            <figure sha="0b4b49b8e9e064e08840cbb8c59e1f39d7be44ba" video="Side-Break-To-Walk-To-Inside-Outside-Turn.mp4">Side Break to Walk to Inside/Outside Turn</figure>
+            <figure sha="ee8fb7ae716193e39c0a8df8c3ce7bfe844c5876" slow="Sliding-Window-To-Walk_slow.mp4" video="Sliding-Window-To-Walk.mp4">Sliding Window to Walk</figure>
+            <figure sha="96cc322a5d7ffed79c8a4c2476e01e322016b791" video="Sliding-Window.mp4">Sliding Window</figure>
+            <figure sha="f84733993cb91e645cbe6ae32b9b38a8652f1159" video="Traveling Crosses.mp4">Traveling Crosses</figure>
+            <figure sha="43b8d52242e2eaebfef29182394159ed62317cb4" video="UAT-To-Grapevine-Ronde.mp4">Underarm Turn to Grapevine Ronde</figure>
+            <figure sha="d9ee8e675ae3cdb3053f8b4585f15613654d62d8" slow="UAT-WalkAround-InsideTurn_slow.mp4" video="UAT-WalkAround-InsideTurn.mp4">Underarm Turn to Walk Around to Inside Turn</figure>
+            <figure sha="ccb0bcc27f30c60d6bca69f8d92a62aad8ecd348" slow="WalkAround-Handshake-Combo_slow.mp4" video="WalkAround-Handshake-Combo.mp4">Walk Around Handshake Combo</figure>
+            <figure sha="a686cc59a9cc83f4302645cb1657e50c3ddb5326" video="Pipestem-Pattern.mp4">The Pipestem Pattern</figure>
+            <figure sha="5a7a341aa35b180ee5655264af93dfb9eea43f83" video="Wheel-To-Sendout.mp4">Wheel To Sendout</figure>
+        </dance>
+        <dance directory="Quick Step" name="Quick Step" table="quickstep">
+            <figure sha="38e611883833526c9cad4667b0900589a4de9127" video="Zig-Zag.mp4">Zig Zag</figure>
+        </dance>
+        <dance directory="Samba" name="Samba" table="samba">
+            <figure sha="2d754e95a28b76d906ebc950132a877382f33b29" video="4-Botafogo-To-Half-Latin-Turn-To-4-Back-Botafogo-To-Half-Latin-Turn.mp4">4 Botafogos to Half Turn to 4 Back Botafogos to Half Turn</figure>
+            <figure sha="d68a0c91851160471798563b79983b5d2117e581" video="4-Botafogo-To-Latin-Turn-To-4-Botafogo.mp4">4 Botafogos to Latin Turn to 4 Botafogos</figure>
+            <figure sha="8557d43503370d0773e9118ee5bb88cb77c25781" video="Whisks-Tap Promenade-2.mp4">Whisk to Promenade Walk</figure>
+            <figure sha="db4a1fc7cbd0c203c2dfeccae3a8c6aa91e1a5d1" slow="Whisks-Tap Promenade_slow.mp4" video="Whisks-Tap Promenade.mp4">Whisks to Tap Promenade</figure>
+            <figure sha="fa9d18f481bec893a57b817d6db97f03101fb3ad" slow="Whisks_slow.mp4" video="Whisks.mp4">Whisks</figure>
+            <figure sha="cb8513b356b0e12629220e03de164a9a8a63ddea" video="Florida-Pattern.mp4">Florida Pattern</figure>
+        </dance>
+        <dance directory="Tango" name="Tango" table="tango">
+            <figure sha="d5b6ae49ef76320a36f42d447295528da2754cbb" slow="Basic_slow.mp4" video="Basic.mp4">Basic</figure>
+            <figure sha="c1605c2bac1c6c97d1de12c261b673d21f6a63de" slow="Combo-1_slow.mp4" video="Combo-1.mp4">Special Combo [Angle 1]</figure>
+            <figure sha="5c4d798097ad8fa189a9d3fb818e25c21e73ceb1" slow="Corte_slow.mp4" video="Corte.mp4">Corte</figure>
+            <figure sha="f3b6ec923c513687a9b7bb8291089ac7d45f3ecd" slow="Fan-Close_slow.mp4" video="Fan-Close.mp4">Fan Close</figure>
+            <figure sha="c1bb387bad756e30c0cd7d94e5f203b7f63a412b" slow="Fan-To-JHook-To-UAT_slow.mp4" video="Fan-To-JHook-To-UAT.mp4">Fan to J-Hook to Underarm Turn</figure>
+            <figure sha="6f1f8e4e5919c06f64e922754c01e83edf2038af" slow="Promenade-Check-To-Twist_slow.mp4" video="Promenade-Check-To-Twist.mp4">Promenade Check to Twist</figure>
+            <figure sha="be06a87c8f4b1deed9a28d281aa72613b864ba8c" slow="Promenade-Check_slow.mp4" video="Promenade-Check.mp4">Promenade Check</figure>
+            <figure sha="a259ae75c8f5139ca743675b50042d4f5db2bbb6" video="Promenade-Corkscrew-Lunge-Arc-Drop-And-Point-Rotating-Rocksteps-Promenade-2.mp4">Promenade Corkscrew to Lunge to Arc to Drop and Point Rotating Rocksteps [Angle 2]</figure>
+            <figure sha="0c51ed37b2649f491dd774ca779bbee5c8329bce" slow="Promenade-Corkscrew-Lunge-Arc-Drop-And-Point-Rotating-Rocksteps-Promenade_slow.mp4" video="Promenade-Corkscrew-Lunge-Arc-Drop-And-Point-Rotating-Rocksteps-Promenade.mp4">Promenade Corkscrew to Lunge to Arc to Drop and Point Rotating Rocksteps [Angle 1]</figure>
+            <figure sha="10177b611dc83d8b14cfa6259ba6b47398c496e5" slow="Promenade-Rock-Steps_slow.mp4" video="Promenade-Rock-Steps.mp4">Promenade Rock Steps</figure>
+            <figure sha="547c0deeec8488989a495bf871ebed6363a4cac3" slow="Promenade_slow.mp4" video="Promenade.mp4">Promenade</figure>
+            <figure sha="15d2842ca947d9a9ed267123697622a67ee76c95" slow="Rotating-Rocksteps_slow.mp4" video="Rotating-Rocksteps.mp4">Rotating Rock Steps</figure>
+        </dance>
+        <dance directory="Bachata" name="Bachata" table="bachata">
+            <figure sha="441afcbb52297274ffb3931509ea3c9dd74cc8d7" video="Double-Undarm-Turn-To-Sweetheart-To-Peek-A-Boo-Spin-Out.mp4">Double UAT To Sweetheart Peek-a-boo Spin Out</figure>
+            <figure sha="8239c8217f2d768bf57b4ef0c686ecb321847df0" video="Double-Underarm-Turn.mp4">Double UAT</figure>
+            <figure sha="12189fdf7ce7bce30cf28b1a19916238e8c1229f" video="Hammer-Lock-Turn.mp4">Hammerlock Turn</figure>
+            <figure sha="4a6cd6fc75f1e1ed91cde5f30c0159a9baa19a90" video="North-And-South.mp4">North And South</figure>
+            <figure sha="984f8b622df93d59b2c7d45e2a7bab63f6eeab63" video="Under-Arm-Turn.mp4">Under Arm Turn</figure>
+        </dance>
+        <dance directory="Cha Cha" name="Cha Cha" table="chacha">
+            <figure sha="c251eac4f725eef5105edb3b1055ca4ace0bfcc8" video="Suprise-Ending.mp4">Suprise Ending</figure>
+            <figure sha="758b28e9ed7bed2429873a8bd06a5d30ece8b3ff" video="5th-Position-Double-Arm-Spin-Wrap-Around.mp4">5th Position Double Arm Spin to Wrap Around</figure>
+            <figure sha="07ae0bc9b455d9ae114e714bfa8062126b673055" video="5th-Position-Lock-Steps.mp4">5th Position Lock Steps</figure>
+            <figure sha="b090844e79c142eae9b374d7fe343cc73a2f5ec2" video="5th-Position-Parallel-Breaks-Wrap-Around.mp4">5th Position Parallel Breaks to Wrap Around</figure>
+            <figure sha="362d3a94e7aa353cbf83a721ba59eb392cda986f" video="Cross-Body-Spin-To-Half-Moon-Angle2.mp4">Cross Body Spin to Half Moon [Angle 2]</figure>
+            <figure sha="5f0f00f761ccd102a5130ae18a88531b5730a654" slow="Cross-Body-Spin-To-Half-Moon_slow.mp4" video="Cross-Body-Spin-To-Half-Moon.mp4">Cross Body Spin to Half Moon [Angle 1]</figure>
+            <figure sha="1bc3bfe5dbf6ca527a363c1cfe1b738d9abac05c" slow="Cross-Body-To-Wrap-To-Progressive-Turns_slow.mp4" video="Cross-Body-To-Wrap-To-Progressive-Turns.mp4">Cross Body to Wrap to Progressive Turns</figure>
+            <figure sha="84ce99002a1dae26acc004c6400a1a362a1775e2" slow="Delay_slow.mp4" video="Delay.mp4">Delay Step</figure>
+            <figure sha="f81a2f72a971c26cd235da1d08553cf3441907aa" video="Double-Rock.mp4">Double Rock Break</figure>
+            <figure sha="86e85baf85b46e072f70f00a277ff11b78c634d8" slow="Fence_slow.mp4" video="Fence.mp4">Fence</figure>
+            <figure sha="495ae2f369391b5bebdf33cd907cfcbeaed15815" slow="Lead Underarm Crossbody Turn_slow.mp4" video="Lead Underarm Crossbody Turn.mp4">Lead Underarm Crossbody Turn</figure>
+            <figure sha="9e56d8bf506a517352449707a8a8ce943e2ff99f" video="Left-Right-Progressive.mp4">Left/Right Progressive</figure>
+            <figure sha="c16a4ca400c0e8231d28b928ab0c6d287fcfdf01" video="Lock-Steps.mp4">Lock Steps</figure>
+            <figure sha="eea7554e7add0b794bbc42598094192b10bab94e" slow="Lock-Whip-Rollout_slow.mp4" video="Lock-Whip-Rollout.mp4">Lock Whip Rollout</figure>
+            <figure sha="7496e11c08c29117cd887620856f46447984bf2d" video="Parallel-Checks-To-Arm-Over-Shoulder-To-Turn.mp4">Parallel Checks To Head Loop Turn</figure>
+            <figure sha="6c5da1a0dcaf89aed6947018b9993ac7679a82a8" video="Parallel-Step-To-Cross-Body-Lead.mp4">Parallel Step to Crossbody Lead</figure>
+            <figure sha="4c9be134f9d14741f346d5061c42ec8b55484d92" video="Progessive-ChaCha.mp4">Progressive Chacha</figure>
+            <figure sha="dd3f036d3f6988e90c3d8bd629fffddfacf62c01" video="Progressive-Chase.mp4">Progressive Chase</figure>
+            <figure sha="d62cca369c6aff68f988f89210e534c8b2baa067" video="Side-Progressive.mp4">Side Progressive</figure>
+            <figure sha="262b6dac59f1d0df26966658d4d2d9c7616a40bb" video="Spot-Turns.mp4">Spot Turns</figure>
+            <figure sha="9a72b3d9cb27bd3d1059c9dac9d3bf816cf4932f" slow="Sweetheart-Crossarm_slow.mp4" video="Sweetheart-Crossarm.mp4">Sweetheart to Crossarm</figure>
+            <figure sha="69acf25a3665e8020f55d966d1a1921b380dff99" slow="Sweetheart-Rollout_slow.mp4" video="Sweetheart-Rollout.mp4">Sweetheart Rollout</figure>
+            <figure sha="19b2cadbb3bb146856e93c4000c668c7fa77460a" video="Sweetheart-To-Samba-ChaCha.mp4">Sweetheart to Samba Steps</figure>
+            <figure sha="fcc03f9e3aab61b746cbcf560265c18f9ac4332a" slow="Underarm-Turn-To-Sweetheart_slow.mp4" video="Underarm-Turn-To-Sweetheart.mp4">Underarm Turn to Sweetheart</figure>
+            <figure sha="c351ec7ec2ddae7a45e49674fbafc9d38a863700" slow="Wrap_slow.mp4" video="Wrap.mp4">Wraps</figure>
+            <figure sha="64bda8c06b1f1fee1c51a7e01be8168393e8ebd3" video="Cross-Body-Overturn-Sweetheart-To-Roll-Out-Spins.mp4">Cross Body Overturn To Sweetheart Rollout Spins</figure>
+            <figure sha="84c59993a55d715231ad85c3ef5f43c6b6e3e6f3" video="Cross-Body-Overturn-Sweetheart-To-Roll-Out-Turn.mp4">Cross Body Overturn To Sweetheart Rollout Turn</figure>
+            <figure sha="bf46c9e5e378a2c4b75da1597d544e19af80cea4" video="UAT-To-Parallel-Breaks-To-Lockstep-Spinout.mp4">Underarm Turn To Parallel Break To Lockstep Spinout</figure>
+            <figure sha="7547b3258c20d5a66c81df8735ad118f863ad805" video="UAT-To-Parallel-Breaks-To-Lockstep-Spinout2.mp4">UAT To Parallel Breaks To Lockstep Spin Out</figure>
+            <figure sha="30d31d7b7e4d6a464106e6652c340c0182ef304f" video="UAT-To-Sweetheart-To-Sliding-Door-Progressive-Spin-Out.mp4">UAT To Sweetheart To Sliding Door Progressive Spin Out</figure>
+            <figure sha="b1fcf546374e3e55d23079dbe76d441c868f51e7" video="Fifth-Position-Cucaracha-Pattern.mp4">Fifth Position Cucaracha Pattern</figure>
+            <figure sha="9a43114a714b4d17b0178c910ecd8610836d9e0f" video="Wheel-Pattern.mp4">Wheel Pattern</figure>
+        </dance>
+        <dance directory="Salsa" name="Salsa" table="salsa">
+            <figure sha="64e8c87aa1dc013a92bbef983f73731de9e0218b" slow="Hammerlock-To-Cuddle-Spinout_slow.mp4" video="Hammerlock-To-Cuddle-Spinout.mp4">Hammerlock to Cuddle Spinout</figure>
+            <figure sha="61124ddb5a75d29317551998a16eab244baa58d5" video="Arm-Slide-CBR-To-Left-Turn.mp4">Arm Slide Crossbody Lead to Left Turn</figure>
+            <figure sha="e36051509d3ba7bc13297d5ed549236707158a2a" slow="Belt-Pass-To-Twist-Spin_slow.mp4" video="Belt-Pass-To-Twist-Spin.mp4">Belt Pass to Twist Spin</figure>
+            <figure sha="3a0b6e853a9b10bc9ed27b94596eac71b2351280" slow="Cape_slow.mp4" video="Cape.mp4">Cape</figure>
+            <figure sha="cdadafe1de27124d9e411c4d128ead9ca81b534d" video="Continuous-Crossbody-Cuddle.mp4">Continuous Crossbody Cuddle</figure>
+            <figure sha="db0bc4ea33fb605cc488d8d56486263881229aa7" video="CrossBodyLead-Cuddle-Check-To-Hammerlock-Turn-And-Half.mp4">Cross Body Lead Cuddle Check To Hammerlock Turn And Half</figure>
+            <figure sha="9d0bdc9c10c7af45df038e0eb5a6424210680b7c" video="CrossBodyLead-Cuddle-Check-To-Spin.mp4">Cross Body Lead Cuddle Check To Spin</figure>
+            <figure sha="353030451ac16aeee0dfbdadadcd6e7e5b1cc5e4" video="CrossBodyLead-Handshake-InsideTurn.mp4">Cross Body Lead Handshake To Inside Turn</figure>
+            <figure sha="f14ed0a8c1354ee78c1be72a13c62f5b3fd139e4" slow="CrossBodyLead-TwinSpin_slow.mp4" video="CrossBodyLead-TwinSpin.mp4">Crossbody Lead to Twin Spins</figure>
+            <figure sha="9d29da9d8e204938f83d42be343e6cf6fe59bc8d" video="Going To The Movies.mp4">Going to the Movies</figure>
+            <figure sha="ecbdf9b7b94723ecfb2318273ffcf8c3a39e5dc3" video="Hammerlock-To-Right-Side-Pass-To-Lead-Spin-To-Follow-Turn.mp4">Hammerlock To Right Side Pass To Lead Spin To Follower Turn</figure>
+            <figure sha="2074b2919a503f9b3769c6522866bda64bac6fc9" slow="HookStep-SpinOut_slow.mp4" video="HookStep-SpinOut.mp4">Hook Step Spinout</figure>
+            <figure sha="3d0d0bb8c812cfe8b79177aec18c5ea69995a276" slow="Lead-UAT_slow.mp4" video="Lead-UAT.mp4">Lead Underarm Turn</figure>
+            <figure sha="1efe1cedce9533fb639111122cc88799e3b331b5" video="LeftOverRight-Crossbody-Sweetheart-Check-To-Turn-And-Half.mp4">Left Over Right Cross Body To Sweetheart Check To Turn And Half</figure>
+            <figure sha="b08d61d012b3f8e422f8b1a56ad52bf5c60b3976" video="RightOverLeft-Inside-Crossbody-Turn-To-Double-HeadLoop-To-Spin.mp4">Right Over Left Inside Cross Body Turn To Head Loop Spin</figure>
+            <figure sha="f612c63d94417a22bae54428fb839c5184e8f036" slow="Scoop-Turn_slow.mp4" video="Scoop-Turn.mp4">Scoop Turn</figure>
+            <figure sha="5c840d0ffbec3a634fda62db7166d7d09617c3ed" slow="Shoulder_Roll_slow.mp4" video="Shoulder_Roll.mp4">Should Roll</figure>
+            <figure sha="fa0820fd6c7c96e29e1fa22d1b86e3981f36870f" slow="Spin-Whip_slow.mp4" video="Spin-Whip.mp4">Spin Whip</figure>
+            <figure sha="6f66be4002b20e491b6780af983125cd05e5b37f" slow="UAT-TurnAround-Brush_slow.mp4" video="UAT-TurnAround-Brush.mp4">Underarm Turn Around Brush</figure>
+            <figure sha="ea798230bf759bb353ff74b3c40442066025915c" video="Wrap-To-Back-Walk-Around.mp4">Wrap to Back Walk Around</figure>
+            <figure sha="a06f68da5121033a815466f43ed1dfd022ea8773" video="Wrap-To-Spinout.mp4">Wrap to Spinout</figure>
+            <figure sha="7ec570bfc939ea76f99ded2a4aaaa7f337bd652d" video="Wrap-To-Step-To-Rollout.mp4">Wrap to Step to Rollout</figure>
+            <figure sha="7a93908f3ddd56c668e0ba547680cbfbc691b442" video="Crossbody-Check-Double-Turn.mp4">Crossbody Check Double Turn</figure>
+            <figure sha="8561e9041e9a629eb784c8f42f70677e3f7de40c" video="Hammerlock-HairBrush-CrossBody-Turn.mp4">Hammerlock Hairbrush To Crossbody Turn</figure>
+            <figure sha="a803def67690a18165fe7cd45b305740902cd1a0" video="Shoulder_Roll-To-Double-Turn.mp4">Shoulder Roll To Double Turn</figure>
+            <figure sha="79aae2a7ac4cf46fd9dc20b856f119efe2a01bb6" video="Spinning-Cape.mp4">Spinning Cape</figure>
+            <figure sha="4be48455acaa4cb37454844562ac6f000645268e" video="Turn-To-Crossbody-Overturn.mp4">Turn to Crossbody Overturn</figure>
+            <figure sha="e27bfdeddec632a38f82ab7982b04132c5e3468c" video="Cross-Body-Turn-To-Outside-Turn-Shoulder-Slide-Single-Double-Spin.mp4">Cross Body Turn To Should Slide</figure>
+        </dance>
+        <dance directory="East Coast Swing" name="East Coast Swing" table="ecs">
+            <figure sha="4f98a1ea5aeef032a034c0a6a38ab2b53ce2ce0a" video="Rotating-Kicks.mp4">Rotating Kicks</figure>
+            <figure sha="cba6af9280417671a4d6b5ece93ce7e6f949846a" slow="4-Leaf-Clover_slow.mp4" video="4-Leaf-Clover.mp4">Four Leaf Clover</figure>
+            <figure sha="b5541b34c625658e37e4ae8a74aa0e6c8b0c5dc5" slow="Arm-Rock_slow.mp4" video="Arm-Rock.mp4">Arm Slide</figure>
+            <figure sha="66abce78ca1fef2d2c25908d5fc4b6de94bc45f1" video="Backwards-Walk-To-Kicks.mp4">Backwards Walk to Kicks</figure>
+            <figure sha="ae3f83eebb6e7f8d815d1fc65ea6dc8142b44b4e" video="Bananna-Split-Angle2.mp4">Bananna Split [Angle 2]</figure>
+            <figure sha="a2be11c89918348d74e50edf2b8bf1a25149ba75" slow="Bananna-Split_slow.mp4" video="Bananna-Split.mp4">Bananna Split</figure>
+            <figure sha="a15e65ca23f6ab2acc651fbf4f2e66c58c2fddc1" video="Boogie-Walk.mp4">Boogie Walk</figure>
+            <figure sha="c6549c1d45d242767ae47eacf2019f80090c7a5a" video="Broken-Wrist-To-Snap-Kicks.mp4">Broken Wrist to Snap Kicks</figure>
+            <figure sha="ce6baa10785a1a65c72c39227b4d04b945a2f96a" video="Butt-Bump.mp4">Butt-Bump</figure>
+            <figure sha="849b7d434b91e3e6f87191148cadd70e767797e5" slow="Cowboy-Whirlwind_slow.mp4" video="Cowboy-Whirlwind.mp4">Cowboy Whirlwind</figure>
+            <figure sha="dc0831e6402ae96fd92681d879fdac388e89cdd9" video="Cuddle-Double-Spin-Return.mp4">Cuddle To Double Spin With Return</figure>
+            <figure sha="290a9d886e56cbbb00aec6bce130544cc4c12924" slow="Double-Turns_slow.mp4" video="Double-Turns.mp4">Her/His Turn</figure>
+            <figure sha="ce7a9df5515c2016a3d2ecdcdadaa3c09a5fc442" slow="Kicks_slow.mp4" video="Kicks.mp4">Kicks</figure>
+            <figure sha="2e82563f4dcff2fb4929591d14a8bba5be056d04" video="Lead-Slingshot.mp4">Lead's Slingshot</figure>
+            <figure sha="9fac10dbbee91a24f8acec91704c7abd64fcbe63" video="Lindy-Step-Inside-Turn.mp4">Lindy Step To Inside Turn</figure>
+            <figure sha="d2a26c34b7f633e6052eaaf022eaaf168e5c58fa" video="Lindy-Step-Outside-Turn.mp4">Lindy Step To Outside Turn</figure>
+            <figure sha="3b1b9aea91a73e5d979160f764ea0cd6602fa7fb" slow="Manhattan-1_slow.mp4" video="Manhattan-1.mp4">Manhatten [Easy]</figure>
+            <figure sha="c3812bddcc008d7ad7e79201b22111c1b2ba319b" slow="Manhattan-2_slow.mp4" video="Manhattan-2.mp4">Manhatten [Hard]</figure>
+            <figure sha="274be3b51123baaab8518f67618e4d0801a56ad6" video="Mens-Tunnel.mp4">Men's Tunnel</figure>
+            <figure sha="ba72c1bc57cc7b3c21d680dc7f1831f13a0a08af" slow="Peek-A-Boo_slow.mp4" video="Peek-A-Boo.mp4">Peek-a-boo</figure>
+            <figure sha="081a935f859a3ee8d091a839e34906ec800a8c47" slow="Pretzel_slow.mp4" video="Pretzel.mp4">Pretzel</figure>
+            <figure sha="c27fcb9f73a8f3b19fa93890dea25bdff4c127be" slow="Promenade-To-Spin_slow.mp4" video="Promenade-To-Spin.mp4">Promenade to American Spin</figure>
+            <figure sha="7f0c00979f29645e1c87fb98b77b66bb2187571f" slow="Sailor-Shuffle_slow.mp4" video="Sailor-Shuffle.mp4">Sailor Shuffle</figure>
+            <figure sha="6be0bb18de0b32a536b11fd52ee340fed730fa5f" slow="Single-Time-Rock-Turn_slow.mp4" video="Single-Time-Rock-Turn.mp4">Single Time Rock Turns</figure>
+            <figure sha="9242572a821af60b2ee2d94077366d255b9385aa" video="Tuck-To-Pretzel.mp4">Tuck to Pretzel</figure>
+            <figure sha="b1d2a6017ba8ef2e110dc2513a67337a06dd3aab" slow="Tunnel_slow.mp4" video="Tunnel.mp4">Tunnel</figure>
+            <figure sha="ef82fe36338aaec7f33ab5ee4f3f4a9f04e15da3" slow="Wrap-To-Cuddle_slow.mp4" video="Wrap-To-Cuddle.mp4">Wrap to Cuddle</figure>
+            <figure sha="3a584c7eba351359c9fe9b45f87ac0922930c6de" video="Lindy-Whip.mp4">Lindy Whip</figure>
+            <figure sha="62a66cfd259784b9092f32fd1337edb3213c19a1" video="Open-Break-To-Dual-Spins-Repeat.mp4">Open Break To Dual Spins</figure>
+            <figure sha="ea75b53a1aaa3e6884d15c61a0f5ca4d436aee20" video="Fall-Away-Spins-To-Step-Pattern.mp4">Fall Away Spins To Step Pattern</figure>
+            <figure sha="d55d1b8053d8739fb533e70d84e3b642fef4b748" video="Chicken-Walk.mp4">Chicken Walk</figure>
+        </dance>
+        <dance directory="West Coast Swing" name="West Coast Swing" table="wcs">
+            <figure sha="ab77c0e756cd0bbf59cd89c782cd93ef4a7628b7" video="Slide-Basic.mp4">Basic to Slide</figure>
+            <figure sha="b18c0ce30f832e05246cff8d177d4ce3014a771b" slow="Basket_slow.mp4" video="Basket.mp4">Basket</figure>
+            <figure sha="51dc36615e646bdf2421f1f95eb5f24ceca7bb0f" video="Closed-Hookstep-Inside-Turn.mp4">Whip to Inside Turn</figure>
+            <figure sha="952bd436b8924f4a5aac9103d9944a595dccf535" video="Closed-Hookstep-Swoop-Turn.mp4">Whip to Swoop Turn</figure>
+            <figure sha="5cec9ddd0948138dbebc743c735333f7083fc9a8" video="Closed-Hookstep.mp4">Whip Turn</figure>
+            <figure sha="930d24263a24b975177efec4b4a46ca35377e57a" video="Half-Whip.mp4">Half Whip</figure>
+            <figure sha="fabc9932a35cb199c98a354a00cf6a375c08b212" slow="Hammerlock-Sendout-To-Slingshot_slow.mp4" video="Hammerlock-Sendout-To-Slingshot.mp4">Hammerlock Send to Slingshot</figure>
+            <figure sha="e113d84f29a06ec64be2def266cb30d4fa9a00b2" slow="Inside Turn-SendOut-Slingshot_slow.mp4" video="Inside Turn-SendOut-Slingshot.mp4">Inside Turn Send to Slingshot</figure>
+            <figure sha="1216f2d601db37b6c01574b5579c9f8e22d567bb" slow="Inside Turn-SendOut-WalkAround-Spin_slow.mp4" video="Inside Turn-SendOut-WalkAround-Spin.mp4">Inside Turn Send to Walk Around Spin</figure>
+            <figure sha="368597a57d396cecad46706dfbe69573e14d50c7" video="Inside-Pass.mp4">Inside Pass</figure>
+            <figure sha="e195b9bc44ce244bf38118b6147a4d1b7063bbdb" slow="InsideTurns-SendOut-Combo-Angle2_slow.mp4" video="InsideTurns-SendOut-Combo-Angle2.mp4">Inside His/Her Turn to Send Combo [Angle 2]</figure>
+            <figure sha="a8e423da87b08eccf0a900dce55429f5bb8c2021" slow="InsideTurns-SendOut-Combo_slow.mp4" video="InsideTurns-SendOut-Combo.mp4">Inside His/Her Turn to Send Combo [Angle 1]</figure>
+            <figure sha="fc0c4d22ef52d35b639c54ac78238e9c429397b7" video="Kick-Whip.mp4">Kick Whip</figure>
+            <figure sha="1ca90c442c72a6052dae61c06b7f10fdd7ccaede" video="Lead Underarm Crossbody Turn.mp4">Lead Underarm Crossbody Turn</figure>
+            <figure sha="827ee3f442274aa75cf11c8d1cc335ffe919a7d5" video="Left-Side-Turn-Pass.mp4">Left Side Turn Pass</figure>
+            <figure sha="96a5d418d17da5250a287388498fe779040e352b" slow="Mens-Basket-Whip_slow.mp4" video="Mens-Basket-Whip.mp4">Men's Basket Whip</figure>
+            <figure sha="6d4e090feb2c339a7685afba66a367f27cf94a2c" video="Progressive-Basic.mp4">Progressive Basic</figure>
+            <figure sha="e45b43b7032a5c8113d8bf24efaa1b5810c01560" video="Reverse-Whip.mp4">Reverse Whip</figure>
+            <figure sha="6657c1133c949867b2a2af96bbefe6a9cbf7c0fe" slow="SpinWrap_slow.mp4" video="SpinWrap.mp4">Spin Wrap</figure>
+            <figure sha="77bcd65107598a9702b3f26829c26e51ad60a4cf" video="Throw-Out-Whip.mp4">Send Back</figure>
+            <figure sha="c23bbc4f0ff9e1ad59403e32fd8b9073116f736b" video="Tuck-In-Turn.mp4">Turn In Turn</figure>
+            <figure sha="c8283a8496b15a7573295480adf3a595a62a38cc" video="Tuck-To-Basket.mp4">Tuck Turn to Basket</figure>
+            <figure sha="38ae1f9591040d9ea92c69f048edd9285c8d28f2" video="Tuck-Turn-Ronde-BarrelRoll.mp4">Turn Turn to Ronde and Barrel Roll</figure>
+            <figure sha="139a6308c9a29829a41465985c5cb3fb65b3470f" video="Tuck-Turn-Ronde.mp4">Tuck Turn to Ronde</figure>
+            <figure sha="6a91ab7c3794f77c82f07294e92a25424a9e3b62" slow="Tuck-Turn_slow.mp4" video="Tuck-Turn.mp4">Tuck Turn</figure>
+            <figure sha="8b393f779bbd9f27134ac377e4f9421ce7b34791" video="Tuck-Turn2.mp4">Tuck Turn [Angle 2]</figure>
+            <figure sha="c63f5bdba762cfc052fd3504f29183d333d61428" video="Turn-In-Place.mp4">Turn In Place</figure>
+            <figure sha="a0ce2a460474bfb9d0f7365c18f0ffe8b0ffd374" video="Wrap Walk.mp4">Wrap Return Walk</figure>
+            <figure sha="082898553fe4e03ceb59e0822bd6cf8e752778c5" slow="Wrap-To-Hammerlock-Sendout_slow.mp4" video="Wrap-To-Hammerlock-Sendout.mp4">Wrap to Hammerlock Send</figure>
+            <figure sha="81a386087c61ba9726715a1fa5750eb730c1ff54" video="Wrap-To-Slingshot.mp4">Wrap to Slingshot</figure>
+            <figure sha="a3675ec5bf12b27e632200f853ac2ff6b4dc9a0e" video="Wrap.mp4">Wrap</figure>
+            <figure sha="c354314cd24b8221621f7807a4d266941bc2ce23" video="Left-Side-Turn-Pass2.mp4">Left Side Pass Turn 2</figure>
+            <figure sha="a8c35d03af5edc9fc82478890ec612406c78a3d6" video="Shoulder-Catch-Whip.mp4">Shoulder Catch Whip</figure>
+            <figure sha="2f759355424cf55aabea5d1005707e08b6704e74" video="Bow-And-Arrow.mp4">Bow And Arrow</figure>
+            <figure sha="29437c2f75ec0efd9edd681fea5c6da9edeaac0c" video="Shoulder-Slide-To-Push.mp4">Shoulder Slide To Push</figure>
+            <figure sha="81c1f3724e7bd4526170a061c0d2f3c24ffebb2b" video="Swivel-To-Continuous-Turn.mp4">Swivel To Continuous Turn</figure>
+        </dance>
+        <dance directory="Foxtrot" name="Foxtrot" table="foxtrot">
+            <figure sha="e67e68b24407be755f55caede69990a699fe5461" video="3-8th-Turn.mp4">[Silver] 3-8th's Turn</figure>
+            <figure sha="983bce86e557de2f331039fae8a8aa1a42f171ae" video="Back-To-Back.mp4">[Bronze]Back to Back</figure>
+            <figure sha="98edcf69eab3f7daa7731973313ea46c18b83bdb" video="Box.mp4">[Bronze]Box</figure>
+            <figure sha="63de035bc24b4c786c733811bf0dc397e2dd3da8" video="Grapevine.mp4">[Bronze]Grapevine</figure>
+            <figure sha="58e306d588775443e6beb847b9733bbde3614e6a" video="Promenade-UAT.mp4">[Bronze]Promenade Underarm Turn</figure>
+            <figure sha="e889721bbb727407f9eedc8e6b81e8acf2eaf701" video="Promenade.mp4">[Bronze]Promenade</figure>
+            <figure sha="494aa892b29a60475c94d292decd48c3bc650f2c" video="RockStep.mp4">[Bronze]Rockstep</figure>
+            <figure sha="39c646093bd0193c944a54aa40d880b349235293" video="Silver-3-8th-Turn.mp4">[Silver] 3/8th Turn</figure>
+            <figure sha="54d6d8ce9c66a5b05ffb61c5055256a680209131" video="Silver-Half-Box-To-Reverse-Grapevine.mp4">[Silver] Half Box to Reverse Grapevine</figure>
+            <figure sha="ed512f566a10b05108da5af74ab04f83becca701" video="Silver-Lady's-Turn-To-Back-To-Back-To-Spins.mp4">[Silver] Lady's Turn to Back-To-Back to Spins</figure>
+            <figure sha="fe0b43d363414003ecc322eb37e874ff2f64ad47" video="Silver-Lady-Syncopated-Right-Turn.mp4">[Silver] Lady's Syncopated Right Turn</figure>
+            <figure sha="97bfe947e545277c2f3daf7985e59df07bf59b69" video="Silver-Progressive-Twinkle-Sways.mp4">[Silver] Progressive Twinkle Sways</figure>
+            <figure sha="15b8a003cab57b9f9aa01dab9463ec6638e03e91" video="Silver-Sways.mp4">[Silver] Sways</figure>
+            <figure sha="181a28645d49a23858c8123d5787fe47d14de867" video="Silver-Twinkle-To-Grapevine.mp4">[Silver] Twinkle to Grapevine</figure>
+            <figure sha="ea99ec87b2092150e967396690d7106bb343a00b" video="Swing-Step-UAT.mp4">[Bronze]Swing Step to Underarm Turn</figure>
+            <figure sha="8130e5f0c46f5a379173dc817b735ac9811bcc6b" video="Swing-Step.mp4">[Bronze]Swing Step</figure>
+            <figure sha="b201643f3d0efee22c3756f1f906c31040ce748a" video="Twinkle.mp4">[Bronze]Twinkle</figure>
+            <figure sha="830f52f9791c4f2243cac4dbb957cdf6815db492" video="Back-To-Back2.mp4">[Silver] Back To Back 2</figure>
+            <figure sha="ee5d8fefd062763041fac75fa670868871ab81ea" video="Pipestem-Pattern.mp4">The Pipestem Pattern</figure>
+        </dance>
+    </dances>
+    <ranks>
+        <rank name="master" sort="0">Mastery</rank>
+        <rank name="fun" sort="0">Fun</rank>
+        <rank name="difficult" sort="0">Difficulty</rank>
+        <rank name="favorites" sort="0">Favorites</rank>
+    </ranks>
+</DanceCenter>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="dance_styles">
+        <item>Salsa</item>
+        <item>East Coast Swing</item>
+        <item>Rumba</item>
+        <item>Waltz</item>
+        <item>Foxtrot</item>
+        <item>Samba</item>
+        <item>Cha Cha</item>
+        <item>Bachata</item>
+        <item>Hustle</item>
+        <item>Merengue</item>
+        <item>Night Club Two Step</item>
+        <item>Quick Step</item>
+        <item>Tango</item>
+        <item>West Coast Swing</item>
+        <item>Line Dance</item>
+    </array>
+</resources>
