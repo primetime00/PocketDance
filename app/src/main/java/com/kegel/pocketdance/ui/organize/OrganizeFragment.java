@@ -422,7 +422,7 @@ public class OrganizeFragment extends Fragment {
         try {
             FileUtils.forceDelete(organizeContent.getMediaFile());
         } catch (IOException e) {
-            Log.e(Constants.LOG_TAG, String.format("Could not delete dance file! %s", e.getMessage()));
+            //Log.e(Constants.LOG_TAG, String.format("Could not delete dance file! %s", e.getMessage()));
             e.printStackTrace();
         }
     }
@@ -453,7 +453,7 @@ public class OrganizeFragment extends Fragment {
                 figureFileName = AppDirectory.incrementExistingExternalFile(f, figureFileName);
             }
         } catch (IOException e) {
-            Log.e(Constants.LOG_TAG, "Could not crate style directory");
+            //Log.e(Constants.LOG_TAG, "Could not crate style directory");
             return;
         }
         nextVideo();
@@ -467,7 +467,7 @@ public class OrganizeFragment extends Fragment {
             FileUtils.moveFile(organizeContent.getMediaFile(), dest);
             data.add(styleSanitize, figureSanitize, dest.getAbsolutePath(), start, end);
         } catch (IOException e) {
-            Log.e(Constants.LOG_TAG, String.format("Could not move dance file! %s", e.getMessage()));
+            //Log.e(Constants.LOG_TAG, String.format("Could not move dance file! %s", e.getMessage()));
             e.printStackTrace();
         }
         Assets.getInstance(getActivity()).updateDanceData();

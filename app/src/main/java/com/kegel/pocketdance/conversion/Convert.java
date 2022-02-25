@@ -55,7 +55,7 @@ public class Convert {
         } catch (Exception e) {
 
         }
-        Log.e(Constants.LOG_TAG, "All XML data converted");
+        //Log.e(Constants.LOG_TAG, "All XML data converted");
         copyContent(c, styles);
 
     }
@@ -81,7 +81,7 @@ public class Convert {
                         FileUtils.copyFile(src, dest);
                     }
                 } catch (IOException e) {
-                    Log.e(Constants.LOG_TAG, String.format("Could not copy %s! %s", src, e.getMessage()));
+                    //Log.e(Constants.LOG_TAG, String.format("Could not copy %s! %s", src, e.getMessage()));
                     continue;
                 }
                 danceData.add(style.getValue().getName(), figure.getName(), dest.getAbsolutePath());

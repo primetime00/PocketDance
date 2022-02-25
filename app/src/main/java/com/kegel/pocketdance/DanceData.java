@@ -150,7 +150,7 @@ public class DanceData implements Serializable {
     public boolean removeFigureData(String name, String videoFileName) {
         StyleData.FigureData data = getFigureData(name, videoFileName);
         if (data == null) {
-            Log.e(Constants.LOG_TAG, "Could not find figure content to remove.");
+            //Log.e(Constants.LOG_TAG, "Could not find figure content to remove.");
             return false;
         }
 

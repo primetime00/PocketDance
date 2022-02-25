@@ -99,7 +99,7 @@ public class AppDirectory {
         if (!f.exists()) {
             boolean res = f.mkdirs();
             if (!res) {
-                Log.e(Constants.LOG_TAG, String.format("Could not create style directory %s", styleDir));
+                //Log.e(Constants.LOG_TAG, String.format("Could not create style directory %s", styleDir));
                 return;
             }
         }
@@ -118,14 +118,14 @@ public class AppDirectory {
         if (!f.exists()) {
             boolean res = f.mkdirs();
             if (!res) {
-                Log.e(Constants.LOG_TAG, "Could not create main Pocket Dance directory!");
+                //Log.e(Constants.LOG_TAG, "Could not create main Pocket Dance directory!");
             }
         }
         File recFile = new File(f, recordPath);
         if (!recFile.exists()) {
             boolean res = recFile.mkdirs();
             if (!res) {
-                Log.e(Constants.LOG_TAG, "Could not create main Pocket Dance Recording directory!");
+                //Log.e(Constants.LOG_TAG, "Could not create main Pocket Dance Recording directory!");
             }
         }
     }

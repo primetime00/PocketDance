@@ -50,7 +50,7 @@ public class OrganizerPlayer extends DanceVideoPlayer implements DanceVideoPlaye
         }
         long endTime = getEndTime() > 0 ? getEndTime() : getVideoPlayer().getDuration();
         if (endTime - pos < Constants.MIN_RECORD_LENGTH) {
-            Log.w(Constants.LOG_TAG, String.format("You've tried to clip the video to %d ms, but that is too short.", endTime - pos));
+            //Log.w(Constants.LOG_TAG, String.format("You've tried to clip the video to %d ms, but that is too short.", endTime - pos));
             return false;
         }
         content.get(currentIndex).setStartTime(pos);
@@ -68,7 +68,7 @@ public class OrganizerPlayer extends DanceVideoPlayer implements DanceVideoPlaye
         }
         long startTime = content.get(currentIndex).getStartTime() > 0 ? content.get(currentIndex).getStartTime() : 0;
         if (pos - startTime < Constants.MIN_RECORD_LENGTH) {
-            Log.w(Constants.LOG_TAG, String.format("You've tried to clip the video to %d ms, but that is too short.", pos - startTime));
+            //Log.w(Constants.LOG_TAG, String.format("You've tried to clip the video to %d ms, but that is too short.", pos - startTime));
             return false;
         }
         content.get(currentIndex).setEndTime(pos);
@@ -154,7 +154,7 @@ public class OrganizerPlayer extends DanceVideoPlayer implements DanceVideoPlaye
 
     @Override
     public void onPlayerError(String message) {
-        Log.e(Constants.LOG_TAG, "There was an error loading the content.");
+        //Log.e(Constants.LOG_TAG, "There was an error loading the content.");
         if (errorListener != null) {
             errorListener.onError(message);
         }

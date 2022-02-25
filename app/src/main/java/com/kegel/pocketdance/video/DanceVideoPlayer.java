@@ -91,7 +91,7 @@ public class DanceVideoPlayer implements Player.EventListener {
             long et = endTime;
             long ct = videoPlayer.getCurrentPosition();
             if (ct < et-100) {
-                Log.e(Constants.LOG_TAG, String.format("New delay for %d ms", et - ct));
+                //Log.e(Constants.LOG_TAG, String.format("New delay for %d ms", et - ct));
                 handler.postDelayed(clipRunnable, et - ct);
                 return;
             }
@@ -105,7 +105,7 @@ public class DanceVideoPlayer implements Player.EventListener {
         }
         if (endTime > 0) {
             handler.removeCallbacks(clipRunnable);
-            Log.e(Constants.LOG_TAG, String.format("New initial delay for %d ms", endTime - startTime));
+            //Log.e(Constants.LOG_TAG, String.format("New initial delay for %d ms", endTime - startTime));
             handler.postDelayed(clipRunnable , endTime - startTime);
         }
     }

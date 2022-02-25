@@ -239,7 +239,7 @@ public class FiguresFragment extends Fragment {
         try {
             FileUtils.moveFile(src, dest);
         } catch (IOException e) {
-            Log.e(Constants.LOG_TAG, String.format("Cannot move file: %s", e.getMessage()));
+            //Log.e(Constants.LOG_TAG, String.format("Cannot move file: %s", e.getMessage()));
         }
         if (adapter.getItemCount() == 0) {
             Navigation.findNavController(recyclerView).popBackStack();

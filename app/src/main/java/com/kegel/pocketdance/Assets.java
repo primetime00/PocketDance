@@ -47,7 +47,7 @@ public class Assets {
                     }
                 } catch (Exception e) {
                     danceData = new DanceData();
-                    Log.e("PocketDance", "Failed to open or read data.");
+                    //Log.e("PocketDance", "Failed to open or read data.");
                 }
             }
             else {
@@ -77,7 +77,7 @@ public class Assets {
             s.toJson(danceData, DanceData.class, s.newJsonWriter(w));
             w.flush();
         } catch (Exception e) {
-            Log.e("PocketDance", "Failed to open or write data.");
+            //Log.e("PocketDance", "Failed to open or write data.");
         }
     }
 

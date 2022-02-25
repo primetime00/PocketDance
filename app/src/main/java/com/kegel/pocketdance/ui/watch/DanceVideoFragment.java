@@ -146,7 +146,7 @@ public class DanceVideoFragment extends Fragment {
         gestureDetector = new GestureDetector(getActivity(), new DanceVideoGestureListener() {
             @Override
             public boolean onDoublePress(MotionEvent e) {
-                Log.d("PocketDance", "Double Press");
+                //Log.d("PocketDance", "Double Press");
                 if (player != null) {
                     player.restart();
                     if (player.isPaused()) {
@@ -158,7 +158,7 @@ public class DanceVideoFragment extends Fragment {
 
             @Override
             public boolean onFlingBack() {
-                Log.d("PocketDance", "Fling Back");
+                //Log.d("PocketDance", "Fling Back");
                 if (playbackSpeed == PlaybackSpeed.NORMAL) {
                     speedText.setText(R.string.half_speed);
                     speedText.animate().alpha(1).setStartDelay(0).setDuration(200).start();
@@ -172,7 +172,7 @@ public class DanceVideoFragment extends Fragment {
 
             @Override
             public boolean onFlingForward() {
-                Log.d("PocketDance", "Fling Forward");
+                //Log.d("PocketDance", "Fling Forward");
                 if (playbackSpeed == PlaybackSpeed.SLOW) {
                     setPlaybackSpeed(PlaybackSpeed.NORMAL);
                     speedText.setText(R.string.normal_speed);
@@ -186,7 +186,7 @@ public class DanceVideoFragment extends Fragment {
 
             @Override
             public boolean onTap() {
-                Log.d("PocketDance", "Tap");
+                //Log.d("PocketDance", "Tap");
                 if (player != null) {
                     if (!player.isPaused()) {
                         player.pause();
@@ -239,7 +239,7 @@ public class DanceVideoFragment extends Fragment {
         videoView.getViewTreeObserver().addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
             @Override
             public void onGlobalLayout() {
-                Log.e(Constants.LOG_TAG, "Layout happened");
+                //Log.e(Constants.LOG_TAG, "Layout happened");
                 int []pos = new int[2];
                 videoView.getLocationOnScreen(pos);
                 speedText.setY(videoView.getHeight() - speedText.getHeight() + pos[1]);
@@ -357,7 +357,7 @@ public class DanceVideoFragment extends Fragment {
 
             //mediaPlayer.setPlaybackParams(mediaPlayer.getPlaybackParams().setSpeed(rawSpeed));
         } else {
-            Log.e("PocketDance", "Could not set playback speed.");
+            //Log.e("PocketDance", "Could not set playback speed.");
         }
     }
 }

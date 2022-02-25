@@ -72,7 +72,7 @@ public class VideoPlayerRecyclerView extends RecyclerView {
     @Override
     public void onViewRemoved(View child) {
         super.onViewRemoved(child);
-        Log.e(Constants.LOG_TAG, "Everything Invisible");
+        //Log.e(Constants.LOG_TAG, "Everything Invisible");
         thumbnailVideo.setVisibility(INVISIBLE);
         thumbnail.setVisibility(VISIBLE);
         isVideoViewAdded = false;
@@ -96,7 +96,7 @@ public class VideoPlayerRecyclerView extends RecyclerView {
                 super.onScrollStateChanged(recyclerView, newState);
 
                 if (newState == RecyclerView.SCROLL_STATE_IDLE) {
-                    Log.d(TAG, "onScrollStateChanged: called.");
+                    //Log.d(TAG, "onScrollStateChanged: called.");
                     playVideo(recyclerView);
                 }
                 else {
@@ -198,7 +198,7 @@ public class VideoPlayerRecyclerView extends RecyclerView {
             }
         }
 
-        Log.d(TAG, "playVideo: target position: " + targetPosition);
+        //Log.d(TAG, "playVideo: target position: " + targetPosition);
 
 
         playPosition = targetPosition;
@@ -245,7 +245,7 @@ public class VideoPlayerRecyclerView extends RecyclerView {
 
     private void addVideoView(){
         if (thumbnailVideo == null || thumbnail == null) {
-            Log.e(TAG, "Could not add video!");
+            //Log.e(TAG, "Could not add video!");
             return;
         }
         isVideoViewAdded = true;
